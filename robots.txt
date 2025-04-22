@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://xy-mou.github.io/sitemap.xml
