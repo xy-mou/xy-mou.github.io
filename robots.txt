@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://xy-mou.github.io/sitemap.xml
+Sitemap: https://xinyimou.github.io/sitemap.xml
