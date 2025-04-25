@@ -26,7 +26,9 @@ latest_posts:
 ---
 
 Welcome to my page! 🎉
+
 I’m currently a PhD candidate from School of Lif Sciences and Biotechnology, Shanghai Jiao Tong University.
 
-My research interest:
+My research interests:
+
 Bioinformatics, Meteproteomics, Deep learning, Cancer microbiome, Peptides
