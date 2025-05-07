@@ -51,11 +51,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-the-godfather",
-          title: 'The Godfather',
+            },{id: "books-guns-germs-and-steel-枪炮-病菌与钢铁",
+          title: 'Guns, Germs and Steel (枪炮、病菌与钢铁)',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/guns_germs_and_steel/";
             },},{
         id: 'social-email',
         title: 'email',
