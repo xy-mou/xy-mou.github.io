@@ -56,6 +56,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/guns_germs_and_steel/";
+            },},{id: "books-红楼梦",
+          title: '红楼梦',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/hongloumeng/";
             },},{
         id: 'social-email',
         title: 'email',
