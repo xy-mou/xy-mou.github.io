@@ -51,16 +51,16 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/books/";
               },
-            },{id: "books-guns-germs-and-steel-枪炮-病菌与钢铁",
-          title: 'Guns, Germs and Steel (枪炮、病菌与钢铁)',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/guns_germs_and_steel/";
-            },},{id: "books-红楼梦",
+            },{id: "books-红楼梦",
           title: '红楼梦',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hongloumeng/";
+            },},{id: "books-guns-germs-and-steel-枪炮-病菌与钢铁",
+          title: 'Guns, Germs and Steel (枪炮、病菌与钢铁)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/guns_germs_and_steel/";
             },},{id: "books-river-town-江城",
           title: 'River Town (江城)',
           description: "",
