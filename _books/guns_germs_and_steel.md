@@ -9,6 +9,7 @@ started: 2025-2-1
 finished: 2025-5-11
 stars: 5
 status: Finished
+date: 2025-2-1
 ---
 
 一本有些复杂但是很有趣的书，看起来像是学术论文。

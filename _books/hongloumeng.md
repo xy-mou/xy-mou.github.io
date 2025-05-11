@@ -9,6 +9,7 @@ started: 2023-6-1
 finished: 2023-10-1
 stars: 5
 status: Finished
+date: 2023-6-1
 ---
 
 一本看完之后会觉得非常平静的书。
