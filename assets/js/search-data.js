@@ -61,6 +61,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/hongloumeng/";
+            },},{id: "books-river-town-江城",
+          title: 'River Town (江城)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/river_town/";
             },},{
         id: 'social-email',
         title: 'email',
