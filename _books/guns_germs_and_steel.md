@@ -6,9 +6,9 @@ cover: assets/img/book_covers/guns_germs_and_steel.jpg
 categories: classics history
 tags: top-100
 started: 2025-2-1
-finished: Now
+finished: 2025-5-11
 stars: 5
-status: Reading
+status: Finished
 ---
 
 一本有些复杂但是很有趣的书，看起来像是学术论文。
