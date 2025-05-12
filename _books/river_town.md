@@ -4,7 +4,6 @@ title: River Town (江城)
 author: Peter Hessler (何伟)
 cover: assets/img/book_covers/river_town.jpg
 categories: travelogue
-tags: travelogue
 started: 2025-5-12
 finished: Now
 stars: 5
