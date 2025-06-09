@@ -3,7 +3,7 @@ layout: book-review
 title: We (我们)
 author: Yevgeny Zamyatin
 cover: assets/img/book_covers/we.jpg
-categories: classics, novel, politics
+categories: classics novel politics
 started: 2025-6-9
 tags: top-100
 finished: Now
