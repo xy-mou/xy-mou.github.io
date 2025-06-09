@@ -66,6 +66,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/river_town/";
+            },},{id: "books-1984",
+          title: '1984',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/1984/";
+            },},{id: "books-brave-new-world-美丽新世界",
+          title: 'Brave New World (美丽新世界)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/brave_new_world/";
+            },},{id: "books-we-我们",
+          title: 'We (我们)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/we/";
             },},{
         id: 'social-email',
         title: 'email',
