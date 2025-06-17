@@ -7,7 +7,6 @@ categories: classics history
 tags: top-100
 started: 2025-2-1
 finished: 2025-5-11
-stars: 5
 status: Finished
 date: 2025-2-1
 ---

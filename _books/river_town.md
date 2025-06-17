@@ -6,7 +6,6 @@ cover: assets/img/book_covers/river_town.jpg
 categories: travelogue
 started: 2025-5-12
 finished: 2025-6-9
-stars: 5
 status: Finished
 date: 2025-5-11
 ---
