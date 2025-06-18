@@ -5,7 +5,7 @@ author: Aldous Huxley
 cover: assets/img/book_covers/brave_new_world.jpg
 categories: classics novel politics
 started: 2025-6-9
-finished: 2025-6-17
+finished: 2025-6-16
 tags: top-100
 status: Finished
 date: 2025-6-9
