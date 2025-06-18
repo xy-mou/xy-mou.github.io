@@ -76,6 +76,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/brave_new_world/";
+            },},{id: "books-il-barone-rampante-树上的男爵",
+          title: 'Il barone rampante (树上的男爵)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/baron_in_tree/";
+            },},{id: "books-der-steppenwolf-荒原狼",
+          title: 'Der Steppenwolf (荒原狼)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/der_steppenwolf/";
+            },},{id: "books-the-road-to-serfdom-通往奴役之路",
+          title: 'The Road to Serfdom (通往奴役之路)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/road2serfdom/";
             },},{id: "books-we-我们",
           title: 'We (我们)',
           description: "",
