@@ -6,7 +6,7 @@ cover: assets/img/book_covers/baron_in_tree.jpg
 categories: novel classsics
 started: 2025-6-18
 finished: Now
-status: Queue
+status: Queued
 date: 2025-6-18
 ---
 

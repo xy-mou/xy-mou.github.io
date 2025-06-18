@@ -6,7 +6,7 @@ cover: assets/img/book_covers/road2serfdom.jpg
 categories: politics economics
 started: 2025-6-18
 finished: Now
-status: Queue
+status: Queued
 date: 2025-6-18
 ---
 
