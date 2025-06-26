@@ -81,11 +81,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/baron_in_tree/";
-            },},{id: "books-der-steppenwolf-荒原狼",
-          title: 'Der Steppenwolf (荒原狼)',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/der_steppenwolf/";
             },},{id: "books-the-road-to-serfdom-通往奴役之路",
           title: 'The Road to Serfdom (通往奴役之路)',
           description: "",
@@ -96,6 +91,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/we/";
+            },},{id: "books-coalition-government-and-one-party-tutelage-联合政府与一党训政",
+          title: 'Coalition Government and One-Party Tutelage (联合政府与一党训政)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Coalition_Government_and_One-Party_Tutelage/";
+            },},{id: "books-der-steppenwolf-荒原狼",
+          title: 'Der Steppenwolf (荒原狼)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/der_steppenwolf/";
             },},{
         id: 'social-email',
         title: 'email',
