@@ -15,6 +15,4 @@ date: 2025-6-18
 计划经济是通往奴役之路。  
 自由市场是大家的救星。  
 
-It is a hard question that i do not have a reasonable answer now.  
-
 Read more, think more.  
