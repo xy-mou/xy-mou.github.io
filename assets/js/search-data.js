@@ -91,8 +91,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/we/";
-            },},{id: "books-coalition-government-and-one-party-tutelage-联合政府与一党训政",
-          title: 'Coalition Government and One-Party Tutelage (联合政府与一党训政)',
+            },},{id: "books-联合政府与一党训政",
+          title: '联合政府与一党训政',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/Coalition_Government_and_One-Party_Tutelage/";
