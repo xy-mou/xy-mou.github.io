@@ -76,6 +76,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/brave_new_world/";
+            },},{id: "books-we-我们",
+          title: 'We (我们)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/we/";
             },},{id: "books-il-barone-rampante-树上的男爵",
           title: 'Il barone rampante (树上的男爵)',
           description: "",
@@ -86,21 +91,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/road2serfdom/";
-            },},{id: "books-we-我们",
-          title: 'We (我们)',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/we/";
-            },},{id: "books-联合政府与一党训政",
-          title: '联合政府与一党训政',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/Coalition_Government_and_One-Party_Tutelage/";
             },},{id: "books-der-steppenwolf-荒原狼",
           title: 'Der Steppenwolf (荒原狼)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/der_steppenwolf/";
+            },},{id: "books-联合政府与一党训政",
+          title: '联合政府与一党训政',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/Coalition_Government_and_One-Party_Tutelage/";
             },},{
         id: 'social-email',
         title: 'email',
